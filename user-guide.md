@@ -1,54 +1,61 @@
 ## UA Data Science Slack Guide
 
 ### Introduction
-Welcome to the UA Data Science Slack Workspace! This workspace is designed to be a permanent community resource for connecting people at the University of Arizona interested in data science. We welcome all types of users - it doesn’t matter if you’re just starting to use R to analyze your data as an undergraduate, or if you’re a fully-fledged tenured professor running Machine Learning models on a bazillion data points in Python, this community is a space for everyone to learn and teach new tools and techniques, to get help with their data, and to connect with other data-science-minded folks at UA. 
-Navigating and Using Slack:
-Use the link in the Google Form (after you’ve agreed to the code of conduct) above to join the workspace. Set up your account as you see fit!
+Welcome to the UA Data Science Slack Workspace! This workspace is designed to be a permanent community resource for connecting people at the University of Arizona interested in data science. We welcome all types of users - it doesn’t matter if you’re just starting to use R to analyze your data as an undergraduate, or if you’re a fully-fledged tenured professor running Machine Learning models on a bazillion data points in Python, this community is a space for everyone to learn and teach new tools and techniques, to get help with their data, and to connect with other data-science-minded folks at UA.
 
-Code of Conduct signup form:
-https://goo.gl/forms/zli3XS9jb9c3MAdq2
+### Navigating and Using Slack:
+Read and agree to the [Code of Conduct](https://goo.gl/forms/zli3XS9jb9c3MAdq2).
 
-If you’re new, a great place to start: https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members
-Channels
-Our workspace is divided into channels that are grouped by topic. Currently we have six main channels for users to communicate in:
+If you're new, check out this [brief guide to getting started in slack](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members).
 
-#general - this channel is for all-purpose messages and conversations that relate to the community as a whole. 
+### Channels
+Our workspace is divided into channels that are grouped by topic. Currently we have seven main channels for users to communicate in:
 
-#git - git and GitHub focused discussions. Even if you are using other Git-hosting sites (e.g. Bitbucket, GitLab), this is the channel for you
+\# general - this channel is for all-purpose messages and conversations that relate to the community as a whole.
 
-#hpc-help - help channel for using HPC/HTC resources at the U of A.
+\# git - git and GitHub focused discussions. Even if you are using other Git-hosting sites (e.g. Bitbucket, GitLab), this is the channel for you
 
-#python, #r - language-specific topics. Wondering about how to tackle a particular problem, and trying to decide what to use? Post here! Did your code stop working for no reason? Please don’t post help-related topics here, they belong in…
+\# hpc-help - help channel for using HPC/HTC resources at the U of A.
 
-#python-help, #r-help - language-specific troubleshooting and help-related topics. Got a problem? Code won’t work? Post here. Specific examples with reproducible code are useful.
+\# python, \# r - language-specific topics. Wondering about how to tackle a particular problem, and trying to decide what to use? Post here! Did your code stop working for no reason? _Please don’t post help-related topics here, they belong in..._
 
-#random - the weird stuff. Non-related topics. Your best gifs. etc. Refer to code of conduct for what is allowed and isn’t.
-Communication Logistics
-There are (probably familiar) ways to organize communication in Slack. You can post to a channel, and people can reply to that post, which generates a thread (this is nice because it’s easier to follow a given conversation). 
+\# python-help, \# r-help - language-specific troubleshooting and help-related topics. Got a problem? Code won’t work? Post here. **Specific examples with reproducible code are _very_ useful**.
 
-You can also search the Workspace or a specific panel, to find previous topics that might answer your questions. 
+\# random - the weird stuff. Non-related topics. Your best gifs. etc. Refer to [Code of Conduct](code-of-conduct) for what is allowed and isn’t.
 
-You can tag channels using the hashtag (i.e. #general, #r), and tag specific users using the @ function (i.e. @Keaton Wilson, why isn’t your code cleaner and more readable?). 
+### Communication Logistics
+There are (probably familiar) ways to organize communication in Slack. You can post to a channel, and people can reply to that post, which generates a thread (this is nice because it’s easier to follow a given conversation).
 
-You can direct message (dm) your colleagues by selecting their name in the list just below the Channels directory. 
+You can also search the Workspace or a specific panel, to find previous topics that might answer your questions.
+
+You can tag channels using the hashtag (i.e. \# general, \# r), and tag specific users using the \@ function (i.e. \@Keaton Wilson, why isn’t your code cleaner and more readable?).
+
+You can direct message (dm) your colleagues by selecting their name in the list just below the Channels directory.
 
 The Slack mobile app is pretty good. So is the desktop app.
-Formatting messages
-*bold words by doing this* = bold words by doing this
-_italicize with this_ = italicize with this
-~strikethrough with this~  = strikethrough with this
 
-You can use shift+enter to make lists, and option-8 (mac) or alt-7 (windows) to make bullets
+### Formatting messages
+\*bold words by doing this\* = **bold words by doing this**
+\_italicize with this\_ = _italicize with this_
+\~strikethrough with this\~  = ~~strikethrough with this~~
 
-> to block quote one paragraph
+You can use `Shift+Enter` to make lists, and `Option-8` (Mac) or `Alt-7` (Windows) to make bullets
+
+/> to block quote one paragraph
+
+>to block quote one paragraph
+
+/>>> to block quote multiple paragraphs
+
 >>> to block quote multiple paragraphs
 
-Surround text with backticks (`) to make inline code. 
-```your code here``` for code blocks.
+Surround text with backticks (\`) to make inline code.
+\`\`\`your code here\`\`\` for code blocks.
 
 Click the plus button next to the message dialogue box to add code chunks, posts, or files.
 
-Getting help, having problems, having ideas
+### Getting help, having problems, having ideas
+
 If you’re having troubles or issues, or have ideas about how to improve the Workspace, please contact one of the admins via DM: @Keaton Wilson, @Zinnar, @Jeff
 
-Cheers!
+Cheers and welcome!
