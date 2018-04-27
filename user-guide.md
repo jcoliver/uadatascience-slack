@@ -23,7 +23,7 @@ There are (probably familiar) ways to organize communication in Slack. You can p
 
 You can also search the Workspace or a specific panel, to find previous topics that might answer your questions.
 
-You can tag channels using the hashtag (i.e. \# general, \# r), and tag specific users using the \@ function (i.e. \@Keaton Wilson, why isn’t your code cleaner and more readable?).
+You can tag channels using the hashtag (i.e. \# general, \# r), and tag specific users using the @ function (i.e. @Keaton Wilson, why isn’t your code cleaner and more readable?).
 
 You can direct message (dm) your colleagues by selecting their name in the list just below the Channels directory.
 
@@ -53,6 +53,8 @@ Click the plus button next to the message dialogue box to add code chunks, posts
 
 ### Getting help, having problems, having ideas
 
-If you’re having troubles or issues, or have ideas about how to improve the Workspace, please contact one of the admins via DM: \@Keaton Wilson, \@Zinnar, \@Jeff
+If you’re having troubles or issues, or have ideas about how to improve the Workspace, please contact one of the admins via DM: @Keaton Wilson, @Zinnar, @Jeff
 
 Cheers and welcome!
+
+Back to [home](index).
