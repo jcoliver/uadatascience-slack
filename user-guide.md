@@ -1,14 +1,14 @@
-## UA Data Science Slack Guide
+# UA Data Science Slack Guide
 
-### Introduction
+## Introduction
 Welcome to the UA Data Science Slack Workspace! This workspace is designed to be a permanent community resource for connecting people at the University of Arizona interested in data science. We welcome all types of users - it doesn’t matter if you’re just starting to use R to analyze your data as an undergraduate, or if you’re a fully-fledged tenured professor running Machine Learning models on a bazillion data points in Python, this community is a space for everyone to learn and teach new tools and techniques, to get help with their data, and to connect with other data-science-minded folks at UA.
 
-### Navigating and Using Slack:
+## Navigating and Using Slack:
 Read and agree to the [Code of Conduct](https://goo.gl/forms/zli3XS9jb9c3MAdq2).
 
 If you're new, check out this [brief guide to getting started in slack](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members).
 
-### Channels
+## Channels
 Our workspace is divided into channels that are grouped by topic. Currently we have seven main channels for users to communicate in:
 
 + **\# general** - this channel is for all-purpose messages and conversations that relate to the community as a whole
@@ -18,7 +18,7 @@ Our workspace is divided into channels that are grouped by topic. Currently we h
 + **\# python-help**, **\# r-help** - language-specific troubleshooting and help-related topics. Got a problem? Code won’t work? Post here. _Specific examples with reproducible code are very useful_.
 + **\# random** - the weird stuff. Non-related topics. Your best gifs. etc. Refer to [Code of Conduct](code-of-conduct) for what is allowed and isn't.
 
-### Communication Logistics
+## Communication Logistics
 There are (probably familiar) ways to organize communication in Slack. You can post to a channel, and people can reply to that post, which generates a thread (this is nice because it’s easier to follow a given conversation).
 
 You can also search the Workspace or a specific panel, to find previous topics that might answer your questions.
@@ -29,7 +29,7 @@ You can direct message (dm) your colleagues by selecting their name in the list 
 
 The Slack mobile app is pretty good. So is the desktop app.
 
-### Formatting messages
+## Formatting messages
 \*bold words by doing this\* = **bold words by doing this**
 
 \_italicize with this\_ = _italicize with this_
@@ -51,8 +51,7 @@ Surround text with backticks (\`) to make inline code.
 
 Click the plus button next to the message dialogue box to add code chunks, posts, or files.
 
-### Getting help, having problems, having ideas
-
+## Getting help, having problems, having ideas
 If you’re having troubles or issues, or have ideas about how to improve the Workspace, please contact one of the admins via DM: @Keaton Wilson, @Zinnar, @Jeff
 
 Cheers and welcome!

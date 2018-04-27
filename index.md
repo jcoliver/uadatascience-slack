@@ -1,4 +1,4 @@
-## Data science Slack workspace at the University of Arizona
+# Data science Slack workspace at the University of Arizona
 
 _What is Slack?_ Well, a better description can be found here (https://slack.com/features), but generally speaking, it’s a group-communication platform with helpful collaboration and code-insertion tools. The invitation is open to any member of the UA community: undergraduates, graduate students, postdocs, faculty and staff.
 
