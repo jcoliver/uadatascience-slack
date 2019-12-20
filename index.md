@@ -1,5 +1,5 @@
 # How to sign up
-Please read and agree to our [Code of Conduct](https://goo.gl/forms/zli3XS9jb9c3MAdq2) and fill out the associated form. Once you’ve filled out the form, you’ll be provided with an invite link to the Slack workspace.
+Enter your e-mail in our **[Google Form](https://goo.gl/forms/zli3XS9jb9c3MAdq2)**. Once you’ve filled out the form, you’ll be provided with an invite link to the Slack workspace.
 
 # How to use Slack
 We’ve created a brief [User Guide to Slack](user-guide). There are great online resources as well.
